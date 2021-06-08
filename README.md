@@ -11,21 +11,9 @@ Python packages you need to install. The list of libraries and its version is ad
 * [NumPy](https://pypi.org/project/numpy/) - NumPy is an open-source numerical Python library.
 * [pandas](https://pandas.pydata.org/) - Python Data Analysis Library.
 * [matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
-* [seaborn](https://seaborn.pydata.org/) - Python data visualization library based on matplotlib.
-* [nltk](https://www.nltk.org/) - Natural Language Toolkit 
 * [sklearn](https://scikit-learn.org/) - Simple and efficient tools for predictive data analysis.
-* [imblearn](https://pypi.org/project/imblearn/) - Imbalanced-learn is a python package offering a number of re-sampling techniques.
-* [allennlp]() - NLP library for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
-* [allennlp-models]() - Provides an easy way to download and use pre-trained models.
-* [python_speech_features]() - This library provides common speech features for ASR including MFCCs and filterbank energies.
-* [torch]() - PyTorch is a Python package that provides Tensor computation and Deep neural networks built.
-* [wave]() -Read and write WAV files.
-* [librosa]() - A python package for music and audio analysis.
 * [tensorflow]() - Open source software library for high performance numerical computation.
-* [re]() - A compendium of commonly-used regular expressions.
-* [pyAudioAnalysis]() - Python library covering a wide range of audio analysis tasks.
-* [eyed3]() - Python tool for working with audio files.
-* [scipy]() - Scientific Library for Python
+* [opencv3]() - OpenCV is a library of programming functions mainly aimed at real-time computer vision. 
 
 ## Installing
 Here we are using ```PIP``` which is a package manager for Python packages.
