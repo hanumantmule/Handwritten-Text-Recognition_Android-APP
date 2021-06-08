@@ -33,10 +33,13 @@ We have divided this project into **two** activities:
 **Note:** User need to save the model using the step 1 and then android application will use the saved model.
 ## Steps involved in model evaluation
 1. Download the IAM Database : [https://fki.tic.heia-fr.ch/databases/iam-handwriting-database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
-2. 
-3.
-4.
-5.
+2. Put the dataset in ```data``` folder
+3. Use below command to Train the model from scratch
+	```$ python main.py --train```
+4. To validate the model
+	```$ python main.py --validate```
+5. For Prediction
+	```$ python main.py```
 
 ## Steps involved in android application setup
 1. Open the 'model_save.py' file from the application folder.
