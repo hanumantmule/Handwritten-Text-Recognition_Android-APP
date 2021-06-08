@@ -112,7 +112,9 @@ dependencies {
 ![Home Page](https://github.com/hanumantmule/Handwritten-Text-Recognition_Android-APP/blob/main/Screenshots/App/app_home.png?raw=true)
 
 ## Results
+Upload the Image on to the app and you will get extracted text on the mobile screen. Sample output is shown below.
 
+![Home Page](https://github.com/hanumantmule/Handwritten-Text-Recognition_Android-APP/blob/main/Screenshots/App/sample_output.jpeg?raw=true)
 
 ## References
 [1] https://pip.pypa.io/en/stable/reference/pip_install/  
@@ -132,5 +134,4 @@ Please read [CONTRIBUTING.md](https://github.com/hanumantmule/Email_Classificati
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 
