@@ -117,10 +117,9 @@ Upload the Image on to the app and you will get extracted text on the mobile scr
 
 Please read [CONTRIBUTING.md](https://github.com/hanumantmule/Email_Classification/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
+## Author
 
 * **Hanumant Mule** 
-* **Namrata Kadam** 
 
 ## License
 
